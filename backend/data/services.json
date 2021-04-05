@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Normal",
+        "charge":0,
+        "description":"This is a normal type of delivery service. In this 4 to 5 working days are taken to deliver the shipment.",
+        "ratings":4.5
+    },
+    {
+        "name": "Express",
+        "charge":100,
+        "description":"This is a express type of delivery service. In this 2 to 3 working days are taken to deliver the shipment.",
+        "ratings":4.0
+    }
+]
